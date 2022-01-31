@@ -1,0 +1,11 @@
+#include "amber99sb-star-ildn-mut.ff/forcefield.itp"
+#include "../hybridStrTop/ffmerged.itp"
+#include "../hybridStrTop/merged.itp"
+#include "amber99sb-star-ildn-mut.ff/tip3p.itp"
+#include "amber99sb-star-ildn-mut.ff/ions.itp"
+
+[ system ]
+ligand in water
+
+[ molecules ]
+MOL 1

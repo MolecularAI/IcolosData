@@ -1,0 +1,93 @@
+; PREPROCESSING
+; Directories to include in your topology (-I/path/to/directory/)
+;include                  =
+; DFLEXIBLE for flexible waters, DPOSRES for position restraints
+;define                   = -DFLEXIBLE -DPOSRES
+
+; Run control
+integrator               = sd       ; Langevin dynamics
+tinit                    = 0
+dt                       = 0.002
+nsteps                   = 250000    ; 500 ps
+comm-mode                = Linear
+nstcomm                  = 500
+; Output control
+nstxout                  = 10000
+nstvout                  = 10000
+nstfout                  = 10000
+nstlog                   = 1000
+nstcalcenergy            = 1
+nstdhdl                  = 1
+nstxout-compressed       = 5000
+compressed-x-precision   = 1000
+
+; Neighborsearching and short-range nonbonded interactions
+cutoff-scheme            = verlet
+nstlist                  = 20
+verlet-buffer-tolerance = -1
+ns_type                  = grid
+pbc                      = xyz
+rlist                    = 1.5
+
+; Electrostatics
+coulombtype              = PME
+rcoulomb-switch          = 0
+rcoulomb                 = 1.2
+; van der Waals
+vdwtype                  = Cutoff
+vdw-modifier             = Potential-switch
+rvdw-switch              = 0.9
+rvdw                     = 1.0
+
+; Apply long range dispersion corrections for Energy and Pressure
+DispCorr                  = EnerPres
+; Spacing for the PME/PPPM FFT grid
+fourierspacing           = 0.10
+
+; EWALD/PME/PPPM parameters
+pme_order                = 6
+ewald_rtol               = 1e-06
+epsilon_surface          = 0
+
+; Temperature coupling
+; tcoupl is implicitly handled by the sd integrator
+tcoupl                   = no
+tc_grps                  = system
+tau_t                    = 1.0
+ref_t                    = 298.15
+
+; Pressure coupling is on for NPT
+pcoupl                   = Parrinello-Rahman
+pcoupltype               = isotropic
+tau_p                    = 1.0
+compressibility          = 4.5e-05
+ref_p                    = 1.01325 
+
+; Free energy control stuff
+free_energy              = yes
+init_lambda              = 0
+delta_lambda             = 0.000004  ; 1/nsteps
+; Options for the decoupling
+sc-alpha                 = 0.5
+sc-coul                  = yes       ; linear interpolation of Coulomb
+sc-power                 = 1
+sc-sigma                 = 0.3
+couple-moltype           = MOL
+couple-intramol          = no
+couple-lambda0           = vdw-q ;(state A)
+couple-lambda1           = none  ;(state B)
+
+
+; Do not generate velocities
+gen-vel                  = yes
+gen-temp                 = 298.15
+gen-seed                 = -1
+; options for bonds
+constraints              = h-bonds
+; Type of constraint algorithm
+constraint-algorithm     = Lincs
+; Constrain the starting configuration
+; since we are continuing from NVT
+continuation             = no 
+; Highest order in the expansion of the constraint coupling matrix
+lincs-order              = 12
