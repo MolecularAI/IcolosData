@@ -5,7 +5,6 @@ package.json
 tags
 .idea
 
-*.log
 .directory
 *_cache
 *.ipynb_checkpoints

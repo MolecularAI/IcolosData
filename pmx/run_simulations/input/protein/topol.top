@@ -1,0 +1,23 @@
+; Include forcefield parameters
+#include "amber99sb-star-ildn-mut.ff/forcefield.itp"
+
+#include "topol_Protein_chain_A.itp; Include water topology
+#include "amber99sb-star-ildn-mut.ff/tip3p.itp"
+
+#ifdef POSRES_WATER
+; Position restraint for each water oxygen
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+   1    1       1000       1000       1000
+#endif
+
+; Include topology for ions
+#include "amber99sb-star-ildn-mut.ff/ions.itp"
+
+[ system ]
+; Name
+5tbm_prot_wat
+
+[ molecules ]
+; Compound        #mols
+Protein_chain_A     1

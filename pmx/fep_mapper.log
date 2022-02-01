@@ -1,0 +1,54 @@
+Started downloaderd.
+* fep_type: small_molecule
+* Number of nodes: 42
+* Number of edges: 73
+* fmpdb filename: N/A
+* Receptor
+	: 1753 atoms
+* Environment structures
+	: 1753 atoms
+* Edge calculated properties (units in kcal/mol)
+   Short ID         ligand1 -> ligand2    Bennett ddG    Cycle Closure ddG    Complex dG    Solvent dG
+   ---------------  --------------------  -------------  -------------------  ------------  ------------
+   0ec09ef_4afa8f9  234 -> 206            N/A            N/A                  N/A           N/A
+
+* Node calculated properties (units in kcal/mol)
+   Short ID    Ligand    Predicted dG    Experimental dG    Predicted Solvation dG    Experimental Solvation dG
+   ----------  --------  --------------  -----------------  ------------------------  ---------------------------
+   0ec09ef     234       N/A             N/A                N/A                       N/A
+   4afa8f9     206       N/A             N/A                N/A                       N/A
+
+* Simulation Protocol
+   Short ID         Protocol        Number of lambda windows
+   ---------------  ------------  --------------------------
+   0ec09ef_4afa8f9  default                               12
+
+* Number of connected components: 1
+* Most connected nodes (7 degree)
+	0ec09ef: 234
+	356a192: 1
+	a929eb3: 164
+* Least connected nodes (2 degree)
+	01ec402: 338
+	0286dd5: 43
+	3c33161: 237
+	45cbe19: 266
+	4d89d29: 67
+	6052521: 156
+	74cbd2c: 165
+	7dec792: 7b
+	80e28a5: 54
+	9d32371: 290
+	b42f113: 7a
+	d435a6c: 23
+	f6e1126: 25
+* Bad edge
+	There is no bad edges
+* Average similarity: 0.5768
+* Similarity
+   Short ID           Total    Mcs    Charge    SoftBond    MinimumNumberOfAtom    SnapCoreRmsd    BidirectionSnapCore
+   ---------------  -------  -----  --------  ----------  ---------------------  --------------  ---------------------
+   0ec09ef_4afa8f9     0.73   0.74      1.00        1.00                   1.00            0.99                   1.00
+
+
+
