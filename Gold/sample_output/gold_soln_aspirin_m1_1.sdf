@@ -1,0 +1,106 @@
+Aspirin|aspirin|sdf|1|dock1
+  -GOLD-   1 72215363D 1   1.00000     0.00000
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+    4.2662   15.5910   25.1927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0075   14.5470   24.3048 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3411   15.5040   26.0775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8236   13.4157   24.3015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1572   14.3728   26.0743 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8985   13.3286   25.1862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2740   14.3021   27.0062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5340   12.1354   24.0511 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2853   10.8374   24.0721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0934   13.3814   27.0703 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6546   12.9863   23.1797 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3329   15.3849   27.8280 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6856   12.2161   25.1665 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6304   16.4718   25.1951 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1701   14.6152   23.6166 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5334   16.3239   26.7648 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6166   12.6060   23.6070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0246   10.8236   23.2672 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5853   10.0114   23.9159 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7695   10.7052   25.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0438   15.3180   28.5006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+M  END
+> <Gold.Version>
+2020.3.0
+
+> <Gold.Id.Protein>
+1UYD|1UYD_protein|mol2
+
+> <Gold.Goldscore.Fitness>
+30.3440
+
+> <Gold.Goldscore.Internal.Vdw>
+-0.6478
+
+> <Gold.Goldscore.Internal.Torsion>
+-3.1407
+
+> <Gold.Goldscore.External.Vdw>
+20.7496
+
+> <Gold.Goldscore.Internal.HBond>
+0.0000
+
+> <Gold.Goldscore.External.HBond>
+2.0000
+
+> <Gold.Goldscore.Internal.Correction>
+-3.6019
+
+> <Gold.Goldscore.Hbonds>
+donor molecule, donor type, donor heavy atom, donor atom, acceptor molecule, acceptor atom, score
+      L1  H    12    21       P1   693  1.00
+
+> <Gold.Goldscore.Internal.Vdw.Weighted>
+-0.6478
+
+> <Gold.Goldscore.Internal.Torsion.Weighted>
+-3.1407
+
+> <Gold.Goldscore.External.Vdw.Weighted>
+28.5306
+
+> <Gold.Goldscore.Internal.HBond.Weighted>
+0.0000
+
+> <Gold.Goldscore.External.HBond.Weighted>
+2.0000
+
+> <Gold.Goldscore.Internal.Correction.Weighted>
+-3.6019
+
+> <Gold.Protein.ActiveResidues>
+ PHE22   ILE26   GLU47   LEU48   SER50   ASN51   SER52   SER53   ASP54   ALA55  
+ LEU56   ILE91   VAL92   ASP93   GLY95   ILE96   GLY97   MET98   ASP102  LEU103 
+ ILE104  ASN106  LEU107  GLY108  ILE110  ALA111  LYS112  GLY135  VAL136  GLY137 
+ PHE138  TYR139  VAL148  VAL150  THR152  TRP162  PHE170  GLY183  THR184  LYS185 
+ VAL186  HOH2008 HOH2027 HOH2036 HOH2060 HOH2063 HOH2065 HOH2068 HOH2071 HOH2083
+ HOH2085 HOH2139 HOH2146 HOH2147 HOH2150 HOH2174 HOH2176 HOH2177 HOH2275 HOH2276
+ HOH2277
+
+$$$$
