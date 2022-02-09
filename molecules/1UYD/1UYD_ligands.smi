@@ -1,0 +1,15 @@
+Nc1ncnc(c12)n(CCCC#C)c(n2)Cc3cc(OC)c(OC)c(c3Cl)OC mol1
+Nc1ncnc(c12)n(CCCC)c(n2)Cc3cc(OC)c(OC)c(c3)OC mol2
+Nc1ncnc(c12)n(CCCC)c(n2)Cc3cc(OC)ccc3OC mol3
+Nc1ncnc(c12)n(CCCC)c(n2)Cc3cccc(c3)OC mol4
+Nc1nc(F)nc(c12)n(CCCC#C)c(n2)Cc3cc(OC)c(OC)c(c3Cl)OC mol5
+Nc1ncnc(c12)n(CCCC)c(n2)Cc3ccc(OC)cc3 mol6
+Nc1ncnc(c12)n(CCCC)c(n2)Cc(cc3)cc(c34)OCO4 mol7
+Nc1nc(F)nc(c12)n(CCCC)c(n2)Cc3cc(OC)ccc3OC mol8
+Nc1nc(F)nc(c12)n(CCCC)c(n2)Cc(cc3)cc(c34)OCO4 mol9
+Nc1nc(F)nc(c12)n(CCCC#C)c(n2)Cc3cc(OC)ccc3OC mol10
+CC(C)NCCCn(c(c12)nc(F)nc2N)c(n1)Cc(c3)c(I)cc(c34)OCO4 mol11
+CC(C)NCCCn(c(c12)ncnc2N)c(n1)Sc(c3)c(Br)cc(c34)OCO4 mol12
+CC(C)NCCCn(c(c12)ncnc2N)c(n1)Sc(c3)c(I)cc(c34)OCO4 mol13
+COc1ccc(OC)c(c1)Cc(n2)[nH]c(c23)c(N)nc(n3)F mol14
+O1COc(c12)cc(Br)c(c2)Cc(nc(n34)c(N)ncc3)c4NCc5ccccc5 mol15
