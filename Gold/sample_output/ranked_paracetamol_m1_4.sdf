@@ -1,0 +1,100 @@
+Paracetamol|paracetamol|sdf|1|dock1
+  -GOLD-   1 72215363D 1   1.00000     0.00000
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    6.6194   14.9085   24.7703 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5867   13.8019   24.0771 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8811   15.7333   25.6188 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8483   14.6267   24.9257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9723   13.9428   23.9994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4955   15.5925   25.6966 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3889   11.8305   22.6998 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4554   11.2736   21.7904 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7108   13.1176   23.1506 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3852   11.1768   22.9646 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7749   16.3973   26.5245 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6988   15.0270   24.7178 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0717   13.0528   23.4810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3908   16.4837   26.2169 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7692   14.5123   24.9818 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5582   11.9103   20.9072 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1790   10.2650   21.4701 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4109   11.2262   22.3210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6023   13.4956   22.8097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1209   17.3037   26.4974 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+M  END
+> <Gold.Version>
+2020.3.0
+
+> <Gold.Id.Protein>
+1UYD|1UYD_protein|mol2
+
+> <Gold.Goldscore.Fitness>
+28.6698
+
+> <Gold.Goldscore.Internal.Vdw>
+-1.8448
+
+> <Gold.Goldscore.Internal.Torsion>
+-3.0532
+
+> <Gold.Goldscore.External.Vdw>
+20.9197
+
+> <Gold.Goldscore.Internal.HBond>
+0.0000
+
+> <Gold.Goldscore.External.HBond>
+0.0000
+
+> <Gold.Goldscore.Internal.Correction>
+-4.8033
+
+> <Gold.Goldscore.Internal.Vdw.Weighted>
+-1.8448
+
+> <Gold.Goldscore.Internal.Torsion.Weighted>
+-3.0532
+
+> <Gold.Goldscore.External.Vdw.Weighted>
+28.7646
+
+> <Gold.Goldscore.Internal.HBond.Weighted>
+0.0000
+
+> <Gold.Goldscore.External.HBond.Weighted>
+0.0000
+
+> <Gold.Goldscore.Internal.Correction.Weighted>
+-4.8033
+
+> <Gold.Protein.ActiveResidues>
+ PHE22   ILE26   GLU47   LEU48   SER50   ASN51   SER52   SER53   ASP54   ALA55  
+ LEU56   ILE91   VAL92   ASP93   GLY95   ILE96   GLY97   MET98   ASP102  LEU103 
+ ILE104  ASN106  LEU107  GLY108  ILE110  ALA111  LYS112  GLY135  VAL136  GLY137 
+ PHE138  TYR139  VAL148  VAL150  THR152  TRP162  PHE170  GLY183  THR184  LYS185 
+ VAL186  HOH2008 HOH2027 HOH2036 HOH2060 HOH2063 HOH2065 HOH2068 HOH2071 HOH2083
+ HOH2085 HOH2139 HOH2146 HOH2147 HOH2150 HOH2174 HOH2176 HOH2177 HOH2275 HOH2276
+ HOH2277
+
+$$$$

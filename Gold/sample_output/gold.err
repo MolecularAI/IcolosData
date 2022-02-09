@@ -1,0 +1,125 @@
+Warning message: 
+find_molecule_n_plc: WARNING: error in aromatic ring system
+Atom 257 in molecule /home/user/Desktop/goldtest/one/1UYD_protein.mol2 has only one aromatic bond
+  
+Warning message: 
+find_molecule_n_plc: Guanidine geometry incorrect (atom number 257)
+
+Warning message: 
+Bond no. 4 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 7 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 10 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 12 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 15 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 16 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 17 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 19 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 20 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 21 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 22 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+Bond no. 23 is 'unknown' in the input file. This may cause complications, please check file:
+/home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: can't deduce type of atom    1 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: atom    4 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   C.3 but should be  C.ar
+
+Warning message: 
+check_atom_types: can't deduce type of atom    7 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: can't deduce type of atom   10 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: can't deduce type of atom   11 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: atom   12 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   C.2 but should be  C.ar
+
+Warning message: 
+check_atom_types: atom   14 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   C.2 but should be  C.ar
+
+Warning message: 
+check_atom_types: can't deduce type of atom   15 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: atom   16 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   C.2 but should be  C.ar
+
+Warning message: 
+check_atom_types: atom   17 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   C.2 but should be  C.ar
+
+Warning message: 
+check_atom_types: can't deduce type of atom   18 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: atom   19 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   C.2 but should be  C.ar
+
+Warning message: 
+check_atom_types: can't deduce type of atom   20 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: can't deduce type of atom   21 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: can't deduce type of atom   22 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+check_atom_types: atom   23 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2 is type   N.3 but should be N.pl3
+
+Warning message: 
+check_atom_types: can't deduce type of atom   27 in /home/user/Desktop/Projects/StructureBased/IcolosData/molecules/1UYD/PU8_reference_ligand.mol2
+
+Warning message: 
+not_o3_a: O.3 atom no 957 connected to 1 atom(s).
+It should be connected to two atoms
+
+Warning message: 
+not_o3_a: O.3 atom no 1297 connected to 1 atom(s).
+It should be connected to two atoms
+
+Warning message: 
+not_o3_a: O.3 atom no 303 connected to 1 atom(s).
+It should be connected to two atoms
+
+Warning message: 
+not_o3_a: O.3 atom no 1053 connected to 1 atom(s).
+It should be connected to two atoms
+
+Warning message: 
+init_protein: only found 0 h-donors in the active site: check origin and radius
+

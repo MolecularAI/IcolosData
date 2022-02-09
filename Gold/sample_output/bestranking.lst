@@ -1,0 +1,9 @@
+# File containing a listing of the fitness of the top-ranked
+# individual for each ligand docked in GOLD.
+#
+# Format is:
+#
+#     Fitness  S(hb_ext) S(vdw_ext)  S(hb_int)    S(int)      intcor     time                               File name                Ligand name
+
+     30.53       2.00      20.89       0.00      -0.20      -3.57    3.683            './gold_soln_aspirin_m1_3.sdf'                  'Aspirin'
+     28.95       2.00      19.71       0.00      -0.15      -4.80    3.765        './gold_soln_paracetamol_m1_5.sdf'              'Paracetamol'
